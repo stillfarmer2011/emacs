@@ -1,0 +1,62 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu May 12 13:52:49 2016
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("sk_buff"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/wudi/.emacs.d/custom/custom.el"
+  "custom.el"
+  'emacs-lisp-mode
+  nil
+  135
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/wudi/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  nil
+  2336
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/wudi/.emacs.d/custom/key_mapping.el"
+  "key_mapping.el"
+  'emacs-lisp-mode
+  nil
+  301
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/wudi/work/252cpa/cpa_4/linux/kernels/mips-linux-2.6.31/net/core/dev.c"
+  "dev.c"
+  'c-mode
+  '(abbrev-mode gtags-mode)
+  6835
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
